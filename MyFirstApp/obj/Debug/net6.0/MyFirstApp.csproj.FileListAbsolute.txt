@@ -1,0 +1,14 @@
+D:\repos\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.exe
+D:\repos\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.deps.json
+D:\repos\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.runtimeconfig.json
+D:\repos\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.dll
+D:\repos\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.pdb
+D:\repos\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfoInputs.cache
+D:\repos\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfo.cs
+D:\repos\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\repos\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.dll
+D:\repos\MyFirstApp\MyFirstApp\obj\Debug\net6.0\refint\MyFirstApp.dll
+D:\repos\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.pdb
+D:\repos\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.genruntimeconfig.cache
+D:\repos\MyFirstApp\MyFirstApp\obj\Debug\net6.0\ref\MyFirstApp.dll
