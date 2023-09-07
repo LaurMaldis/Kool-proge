@@ -1,14 +1,15 @@
-﻿// See on minu ilus koodike, kommentaar 1
-Console.WriteLine("Enter your name:");
+﻿//esimene kommentaar
 
+//rakendus palub kasutajal sisestada tema nime
+//rakendus tervitab kasutajat
+
+Console.WriteLine("Enter your name:"); //Output
 //string - sõne
 
-string userName;
+string userName = Console.ReadLine(); //Input
 
-userName = Console.ReadLine();
-
-Console.WriteLine("Hello" + ", " + userName + "!");
+Console.WriteLine("Hello" + ", " + userName + "!"); //Output
 
 //string interpolation
 
-Console.WriteLine($"Hello, {userName}!");
+Console.WriteLine($"Hello, {userName} !"); //Output
