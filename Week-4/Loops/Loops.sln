@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNum", "..\RandomNum\R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoops", "..\WhileLoops\WhileLoops.csproj", "{CDCE6BA5-B80B-49ED-B156-E5E91E1D70E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizTest", "..\QuizTest\QuizTest.csproj", "{69CC233B-C5D4-44D1-B539-2315291E9A84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CDCE6BA5-B80B-49ED-B156-E5E91E1D70E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDCE6BA5-B80B-49ED-B156-E5E91E1D70E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDCE6BA5-B80B-49ED-B156-E5E91E1D70E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CC233B-C5D4-44D1-B539-2315291E9A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CC233B-C5D4-44D1-B539-2315291E9A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CC233B-C5D4-44D1-B539-2315291E9A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CC233B-C5D4-44D1-B539-2315291E9A84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
