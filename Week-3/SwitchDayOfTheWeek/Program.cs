@@ -24,6 +24,9 @@ switch(weekDay) //väärtus mida kontrollitakse
     case 6:
         Console.WriteLine("L");
         break;
+    default:
+        Console.WriteLine("Kalender on kvatki!");
+        break; 
 };
 
 Console.WriteLine("Naudi oma ilusat päeva!");
