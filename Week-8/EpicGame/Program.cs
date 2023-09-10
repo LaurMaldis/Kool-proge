@@ -1,7 +1,7 @@
 ﻿
 //string[] heroes = { "Kartulmees", "Monke Kukk", "Ants Mets", "Keere Asd" };
 //string[] villains = { "Kuri", "Ats", "joodik Pets", "Näts", "Peet" };
-string folderPath = @"D:\repos\Kool-proge\Week-8\EpicGame\";
+string folderPath = @"D:\repos\Kool-proge\Week-8\EpicGame";
 string heroesFile = "heroes.txt";
 string villainsFile = "villains.txt";
 
